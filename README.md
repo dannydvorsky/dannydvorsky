@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dannydvorsky
-- 👀 I’m interested in SW development, integrations & automations, hiking, aviation and life overall :)
-- 🌱 I’m currently learning SQL, JavaScript, Python
-- 📫 How to reach me daniel.dvorsky@teya.com
+- 👀 Interested in Software Development, Integrations & Automations, Hiking, Aviation, and Life in general
+- 🌱 Currently learning JavaScript, Node.js, and TypeScript
+- 💻 Familiar with HTML, CSS, and SQL
+- 📧 Email: dannyodee at gmail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: As a kid, I was told I will never make living of computers/IT :)
 
